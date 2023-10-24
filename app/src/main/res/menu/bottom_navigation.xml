@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="pass"
+        android:enabled="true"
+        android:icon="@drawable/next_plan_f_ll0_wght400_grad0_opsz24"
+        android:title="@string/pass"
+        />
+
+    <item
+        android:id="Right"
+        android:enabled="true"
+        android:icon="@drawable/check_circle_f_ll0_wght400_grad0_opsz24"
+        android:title="@string/right"
+        />
+    <item
+        android:id="taboo"
+        android:enabled="true"
+        android:icon="@drawable/cancel_f_ll0_wght400_grad0_opsz24"
+        android:title="@string/taboo"
+        />
+
+</menu>
